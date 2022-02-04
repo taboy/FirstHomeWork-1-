@@ -3,8 +3,8 @@ Console.WriteLine("Write a number:");
 int number = Convert.ToInt16(Console.ReadLine());
 if( number % 2 == 0)
 {
-    Console.WriteLine("cislo cetnoe");
+    Console.WriteLine("number is even");
 }
 else{
-    Console.WriteLine("necotnoe");
+    Console.WriteLine("number is odd");
 }
