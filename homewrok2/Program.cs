@@ -19,3 +19,6 @@ else if ( third_num > first_num && third_num > second_num)
     Console.WriteLine(third_num + " is a highest number");
 
 }
+else{
+    Console.WriteLine("write different numbers");
+}
